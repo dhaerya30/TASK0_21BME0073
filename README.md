@@ -1,5 +1,7 @@
 # TASK0_21BME0073
 Link for the video :https://youtu.be/VYGde9zvvyQ
+Link for LinkdedIn profile : https://www.linkedin.com/in/dhaerya-s-347000237
+
 ## 1.git help: 
 Take help from github help section for different commands and other errors
 
