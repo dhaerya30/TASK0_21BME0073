@@ -93,8 +93,11 @@ https://.... : To clone or make a local copy of the global repository in your sy
 ## 31.git merge Testing :
 To merge Testing branch with master branch.
 
-## 32.git branch -d Testing : To delete Testing branch.
+## 32.git branch -d Testing : 
+To delete Testing branch.
 
-## 33.git checkout -b admin : To create a new branch admin and set it as current branch.
+## 33.git checkout -b admin : 
+To create a new branch admin and set it as current branch.
 
-## 34.git branch -r : To look at all the remote branches
+## 34.git branch -r : 
+To look at all the remote branches
